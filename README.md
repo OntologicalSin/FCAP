@@ -1,4 +1,4 @@
-#FCAP
+# FCAP
 
 Compile fcap.c and server.c to run using command line arguments.
 
