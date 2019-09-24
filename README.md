@@ -6,10 +6,10 @@ This project is no longer being maintained however extensions and refactoring wi
 
 ## Getting Started
 
-Clone this repo to your local machine using `https://github.com/OntologicalSin/FCAP.git`
-Compile and run fcap.c and server.c on the host computer.
-Compile and run client.c on the client computer.
-Execute `./fcap --help` for command line information.
+- Clone this repo to your local machine using `https://github.com/OntologicalSin/FCAP.git`
+- Compile and run fcap.c and server.c on the host computer.
+- Compile and run client.c on the client computer.
+- Execute `./fcap --help` for command line information.
 
 ## Built With
 
